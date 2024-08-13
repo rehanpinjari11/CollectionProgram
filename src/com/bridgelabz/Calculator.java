@@ -8,8 +8,14 @@ public class Calculator {
 
         int a = 10;
         int b = 20;
+
+        //UC1
         int c = a + b;
         System.out.println("Addition is "+c);
+
+        //UC2
+        c = a - b;
+        System.out.println("Subtraction is "+c);
 
     }
 }
